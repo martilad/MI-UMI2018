@@ -41,7 +41,7 @@ setOfProccesedNode.add(fromPage)
 
 
 
-def endPrint(road, pag, f, logger):
+def endPrint(road, pag, f, logger, setOfProccesedNode):
     cnt = 0
     while True:
         if cnt > 1000:
@@ -53,8 +53,10 @@ def endPrint(road, pag, f, logger):
             road = " -> ".join(road[::-1])
             road = road + "\n\n"
             with open("road.txt", "a") as text_file:
+            	text_file.write(str(len(setOfProccesedNode)))
                 text_file.write(road)
                 text_file.flush()
+                
             return
         road.append(pag)
         pag = mapRoad[pag]
@@ -76,11 +78,11 @@ while(True):
         domains = {urlparse(i).netloc for i in urls}
         if urlparse(toPage).netloc in domains:
             logger.info("I find the walk from {} to {}.".format(f, toPage))
-            endPrint([toPage], fromPage, f, logger)
+            endPrint([toPage], fromPage, f, logger, setOfProccesedNode)
         for url in urls:
             if contain in url:
                 logger.info("I find the walk from {} to {}.".format(f, url))
-                endPrint([url], fromPage, f, logger)
+                endPrint([url], fromPage, f, logger, setOfProccesedNode)
             if url.split('.')[-1] in blockFiles:
                 logger.info("Not download file: " + str(url))
                 continue
