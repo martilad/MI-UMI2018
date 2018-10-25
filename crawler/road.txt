@@ -1,120 +1,957 @@
+11147
 https://fit.cvut.cz/ -> https://gaudeamus.cz/brno -> http://www.msmt.cz/ -> https://gramotnosti.pro/ -> https://scratch.mit.edu/
 
-https://fit.cvut.cz/ -> https://gaudeamus.cz/brno -> http://www.msmt.cz/ -> https://gramotnosti.pro/ -> https://scratch.mit.edu/
-
+40804
 https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop
 
+40819
 https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/
 
+43566
 https://fit.cvut.cz/ -> http://casopis.fit.cvut.cz/ -> https://casopis.fit.cvut.cz/technologie/spam-na-fitu/ -> https://en.wikipedia.org/wiki/Milter -> https://stuff.mit.edu/~jik/software/bogofilter-milter/
 
+44235
 https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm
 
+44258
 https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/about/ -> http://ocw.mit.edu/index.htm
 
+44413
 https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/
 
+44631
 https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/faq -> http://ocw.mit.edu/
 
+44771
 https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ#If_I_derive_or_adapt_material_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_use.3F -> http://ocw.mit.edu/
 
+44771
 https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/Frequently_Asked_Questions#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses.3F -> http://ocw.mit.edu/
 
+44771
 https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/Frequently_Asked_Questions#When_is_my_use_considered_an_adaptation.3F -> http://ocw.mit.edu/
 
+44771
 https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/Frequently_Asked_Questions#Do_Creative_Commons_licenses_affect_exceptions_and_limitations_to_copyright.2C_such_as_fair_dealing_and_fair_use.3F -> http://ocw.mit.edu/
 
+99882
 https://fit.cvut.cz/ -> https://gaudeamus.cz/brno -> http://www.msmt.cz/ -> https://gramotnosti.pro/ -> https://gramotnosti.pro/#about -> https://scratch.mit.edu/
 
+99882
 https://fit.cvut.cz/ -> https://gaudeamus.cz/brno -> http://www.msmt.cz/ -> https://gramotnosti.pro/ -> https://gramotnosti.pro/#in-practice -> https://scratch.mit.edu/
 
+99946
 https://fit.cvut.cz/ -> https://gaudeamus.cz/brno -> http://www.msmt.cz/ -> https://gramotnosti.pro/ -> http://gramotnosti.blogy.rvp.cz/ -> https://scratch.mit.edu/
 
+125327
 https://fit.cvut.cz/ -> https://ctf.accenture.com/ -> https://www.accenture.com/sitecore/content/cz-en/Home/BucketContent/CommonPages/privacy-policy.aspx -> https://newsroom.accenture.com/index.cfm -> https://www.accenture.com/us-en/applications-index -> https://sloanreview.mit.edu/article/want-the-best-results-from-ai-ask-a-human/?utm_source=twitter&utm_medium=social&utm_campaign=sm-direct
 
+125328
 https://fit.cvut.cz/ -> https://ctf.accenture.com/ -> https://www.accenture.com/sitecore/content/cz-en/Home/BucketContent/CommonPages/privacy-policy.aspx -> https://newsroom.accenture.com/index.cfm -> https://www.accenture.com/us-en/applications-index -> https://sloanreview.mit.edu/article/want-the-best-results-from-ai-ask-a-human/?utm_source=twitter&utm_medium=social&utm_campaign=sm-direct
 
+177274
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> https://dspace.cvut.cz/ -> http://www.dspace.org/ -> https://duraspace.org/dspace/download/quickstart-guide/ -> https://dspace.mit.edu/handle/1721.1/26698
 
+181969
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/komise-iniciativy/iniciativa-oa/seminar-or/ -> https://hdl.handle.net/10084/111624 -> http://web.mit.edu
 
+181973
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/komise-iniciativy/iniciativa-oa/seminar-or/ -> https://hdl.handle.net/10084/111624 -> http://web.mit.edu
 
+182149
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/komise-iniciativy/iniciativa-oa/archiv-iniciativy-oa-2010-2015/ -> http://dspace.vsb.cz/handle/10084/95031 -> http://web.mit.edu
 
+182149
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/komise-iniciativy/iniciativa-oa/archiv-iniciativy-oa-2010-2015/ -> http://dspace.vsb.cz/handle/10084/95031 -> http://web.mit.edu
 
+182202
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/komise-iniciativy/iniciativa-oa/archiv-iniciativy-oa-2010-2015/ -> https://dspace.vsb.cz/handle/10084/89663 -> http://web.mit.edu
 
+182202
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/komise-iniciativy/iniciativa-oa/archiv-iniciativy-oa-2010-2015/ -> https://dspace.vsb.cz/handle/10084/89663 -> http://web.mit.edu
 
+182259
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/komise-iniciativy/iniciativa-oa/archiv-iniciativy-oa-2010-2015/ -> https://dspace.vsb.cz/handle/10084/83299 -> http://web.mit.edu
 
+182259
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/komise-iniciativy/iniciativa-oa/archiv-iniciativy-oa-2010-2015/ -> https://dspace.vsb.cz/handle/10084/83299 -> http://web.mit.edu
 
+183041
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/akce/akce-2018/or-2018/program/ -> http://dspace.vsb.cz/handle/10084/127300 -> http://web.mit.edu
 
+183041
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/akce/akce-2018/or-2018/program/ -> http://dspace.vsb.cz/handle/10084/127300 -> http://web.mit.edu
 
+183404
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/akce/akce-2017/or-2017/program/ -> http://dspace.vsb.cz/handle/10084/117039 -> http://web.mit.edu
 
+183404
 https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://www.akvs.cz/ -> http://akvs.cz/akce/akce-2017/or-2017/program/ -> http://dspace.vsb.cz/handle/10084/117039 -> http://web.mit.edu
 
+187649
+https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://iatul.org/ -> https://www.facebook.com/IATULorg/ -> https://www.facebook.com/rmitlibrary/?ref=py_c -> http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.rmit.edu.au%2Flibrary&h=AT3EF8fuy_soiBskD_V1J-3V3nSibOCAPu8l-SaA1nURm-oEDZo1bAfpBlwSh1_V9KiZTia_-NlJNh_PfRJ97F_7XUyRAiryXJq20RmzbKf-gkueIFhu5J304a_h1BZ9XefHNAPq6vki2QlL
+
+187650
+https://fit.cvut.cz/ -> http://knihovna.cvut.cz -> http://iatul.org/ -> https://www.facebook.com/IATULorg/ -> https://www.facebook.com/rmitlibrary/?ref=py_c -> http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.rmit.edu.au%2Flibrary&h=AT2psxGMWA4S84ly126Y4TqVJqgBDOtbjElDD_wB145ug8m7-eonsqMOJrmkVsM8dWlSMSRwBIXHBBnp9G1TB8mHB_wWxXn6XsRTr1ouZCC3BgoxyjgFPjMI503fMaNhSWlBshL99Vr04GDAkxI
+
+213037
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/tema/3-2017-internet-of-things/ -> https://casopis.fit.cvut.cz/tema/priemysel-4-0/ -> https://en.wikipedia.org/wiki/Internet_of_things -> https://web.archive.org/web/20150311220327/http://web.media.mit.edu/~anjchang/ti01/weiser-sciam91-ubicomp.pdf
 
+213038
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/tema/3-2017-internet-of-things/ -> https://casopis.fit.cvut.cz/tema/priemysel-4-0/ -> https://en.wikipedia.org/wiki/Internet_of_things -> http://web.media.mit.edu/~anjchang/ti01/weiser-sciam91-ubicomp.pdf
 
+213252
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/tema/3-2017-internet-of-things/ -> https://casopis.fit.cvut.cz/tema/priemysel-4-0/ -> https://en.wikipedia.org/wiki/Cyber-physical_system -> http://people.csail.mit.edu/nikolaus/drg/
 
+213253
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/tema/3-2017-internet-of-things/ -> https://casopis.fit.cvut.cz/tema/priemysel-4-0/ -> https://en.wikipedia.org/wiki/Cyber-physical_system -> http://cartel.csail.mit.edu/doku.php
 
+213604
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/tema/3-2017-internet-of-things/ -> https://casopis.fit.cvut.cz/tema/priemysel-4-0/ -> https://en.wikipedia.org/wiki/Big_data -> http://bigdata.csail.mit.edu/
 
+217844
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/tema/1-2016-historie-it/ -> https://casopis.fit.cvut.cz/tema/historie-internetu-aneb-prvni-zprava-byla-vlastne-trolling/ -> https://www.lk.cs.ucla.edu -> http://www.mit.edu/
 
+217848
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/tema/1-2016-historie-it/ -> https://casopis.fit.cvut.cz/tema/historie-internetu-aneb-prvni-zprava-byla-vlastne-trolling/ -> https://www.lk.cs.ucla.edu -> http://www.mit.edu
 
+217849
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/tema/1-2016-historie-it/ -> https://casopis.fit.cvut.cz/tema/historie-internetu-aneb-prvni-zprava-byla-vlastne-trolling/ -> https://www.lk.cs.ucla.edu -> http://www.mit.edu
 
+224243
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/tesla-roadster-nemieri-k-marsu/ -> https://en.wikipedia.org/wiki/Mars -> http://www.mit.edu/
 
+224420
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/tesla-roadster-nemieri-k-marsu/ -> https://en.wikipedia.org/wiki/Mars -> https://web.archive.org/web/20101110051940/http://www.mit.edu/people/goodmanj/terraforming/terraforming.html
 
+224421
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/tesla-roadster-nemieri-k-marsu/ -> https://en.wikipedia.org/wiki/Mars -> http://www.mit.edu/people/goodmanj/terraforming/terraforming.html
 
+224792
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/tesla-roadster-nemieri-k-marsu/ -> https://en.wikipedia.org/wiki/Hohmann_transfer_orbit -> https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-522-space-propulsion-spring-2015/lecture-notes/MIT16_522S15_Lecture6.pdf
 
+226168
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/tesla-roadster-nemieri-k-marsu/ -> https://en.wikipedia.org/wiki/Moon -> http://web.mit.edu/newsoffice/2008/moonscope-0215.html
 
+226169
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/tesla-roadster-nemieri-k-marsu/ -> https://en.wikipedia.org/wiki/Moon -> https://web.archive.org/web/20090304062601/http://web.mit.edu/newsoffice/2008/moonscope-0215.html
 
+227331
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/umela-inteligencia-ako-funguje-preco-dobre-sa-nu-zaujimat/ -> https://en.wikipedia.org/wiki/Rodney_Brooks -> http://people.csail.mit.edu/brooks/papers/AIM-1091.pdf
 
+227334
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/umela-inteligencia-ako-funguje-preco-dobre-sa-nu-zaujimat/ -> https://en.wikipedia.org/wiki/Rodney_Brooks -> http://people.csail.mit.edu/brooks/papers/nature.pdf
 
+227337
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/umela-inteligencia-ako-funguje-preco-dobre-sa-nu-zaujimat/ -> https://en.wikipedia.org/wiki/Rodney_Brooks -> http://people.csail.mit.edu/brooks/companies.html
 
+227351
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/umela-inteligencia-ako-funguje-preco-dobre-sa-nu-zaujimat/ -> https://en.wikipedia.org/wiki/Rodney_Brooks -> http://people.csail.mit.edu/brooks/
 
+227354
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/umela-inteligencia-ako-funguje-preco-dobre-sa-nu-zaujimat/ -> https://en.wikipedia.org/wiki/Rodney_Brooks -> http://people.csail.mit.edu/brooks/papers/AIM-1293.pdf
 
+227355
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/umela-inteligencia-ako-funguje-preco-dobre-sa-nu-zaujimat/ -> https://en.wikipedia.org/wiki/Rodney_Brooks -> http://people.csail.mit.edu/brooks/
 
+227355
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/umela-inteligencia-ako-funguje-preco-dobre-sa-nu-zaujimat/ -> https://en.wikipedia.org/wiki/Rodney_Brooks -> http://www.ai.mit.edu/projects/humanoid-robotics-group/cog/cog.html
 
+227356
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/umela-inteligencia-ako-funguje-preco-dobre-sa-nu-zaujimat/ -> https://en.wikipedia.org/wiki/Rodney_Brooks -> http://people.csail.mit.edu/brooks/bio.shtml
 
+227357
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/umela-inteligencia-ako-funguje-preco-dobre-sa-nu-zaujimat/ -> https://en.wikipedia.org/wiki/Rodney_Brooks -> http://people.csail.mit.edu/brooks/publications.html
 
+227779
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/umela-inteligencia-ako-funguje-preco-dobre-sa-nu-zaujimat/ -> http://fortune.com/facebook-machine-learning/ -> https://civic.mit.edu/blog/natematias/uncovering-algorithms-looking-inside-the-facebook-news-feed
 
+230688
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/kolonizacia-vesmiru-so-spacex-1-cast/ -> https://en.wikipedia.org/wiki/Hyperloop -> http://news.mit.edu/2016/mit-students-win-first-round-spacex-hyperloop-contest-0201
 
+230730
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/kolonizacia-vesmiru-so-spacex-1-cast/ -> https://en.wikipedia.org/wiki/Hyperloop -> http://hyperloop.mit.edu/uploads/7/6/1/8/76180385/opgenoordcaplan_2017_aerodynamics_hyperloop_online.pdf
 
+230814
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://casopis.fit.cvut.cz/kategorie/technologie/ -> https://casopis.fit.cvut.cz/technologie/kolonizacia-vesmiru-so-spacex-1-cast/ -> https://en.wikipedia.org/wiki/Hyperloop -> http://news.mit.edu/2017/safe-at-any-speed-mit-hyperloop-0214
 
+242401
 https://fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tema/1-2018-historie-cvut/do-hlubin-archivu-cvut/ -> https://cs.wikipedia.org/wiki/Italia -> https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute -> https://en.wikipedia.org/wiki/Open_source -> http://econ-www.mit.edu/files/3023
 
+425257
 https://fit.cvut.cz/ -> http://www.twitter.com/FIT_CTU -> https://t.co/bxuMkhGnHm -> https://github.com/tensorflow/tensorflow -> https://bestpractices.coreinfrastructure.org/projects/1486 -> http://web.mit.edu/Saltzer/www/publications/protection/
+
+431156
+https://fit.cvut.cz/ -> http://www.twitter.com/FIT_CTU -> https://t.co/bxuMkhGnHm -> https://github.com/kubernetes/kubernetes -> https://bestpractices.coreinfrastructure.org/projects/569 -> http://web.mit.edu/Saltzer/www/publications/protection/
+
+432124
+https://fit.cvut.cz/ -> http://www.twitter.com/FIT_CTU -> https://t.co/bxuMkhGnHm -> https://github.com/pytorch/pytorch -> https://github.com/HIPS/autograd -> http://people.csail.mit.edu/mattjj/
+
+439314
+https://fit.cvut.cz/ -> http://www.twitter.com/FIT_CTU -> https://dev.twitter.com/web/embedded-tweets -> https://developer.twitter.com/en/docs/basics/counting-characters -> http://www.w3.org/International/charlint/. -> http://www.csail.mit.edu
+
+439993
+https://fit.cvut.cz/ -> http://www.twitter.com/FIT_CTU -> https://dev.twitter.com/web/embedded-tweets -> https://developer.twitter.com/en/docs/twitter-for-websites/timelines -> http://www.w3.org/WAI/intro/aria.php -> http://www.csail.mit.edu/
+
+440001
+https://fit.cvut.cz/ -> http://www.twitter.com/FIT_CTU -> https://dev.twitter.com/web/embedded-tweets -> https://developer.twitter.com/en/docs/twitter-for-websites/timelines -> http://www.w3.org/WAI/PF/aria-practices/#liveprops -> http://www.csail.mit.edu/
+
+450934
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/mba-rankings/2019 -> https://www.topmba.com/node/75156 -> https://www.topmba.com/admissions/2018-19-full-time-mba-application-deadlines -> http://mitsloan.mit.edu/mba/admissions/apply/deadline-and-decision-schedule/
+
+451449
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/mba-rankings/2019 -> https://www.topmba.com/node/72346 -> https://www.topmba.com/mba-programs/10-top-business-schools-australia-201415 -> https://www.rmit.edu.vn/programs/master-business-administration-mba
+
+464765
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/best-student-cities -> https://www.topuniversities.com/university-rankings-articles/qs-best-student-cities/london -> https://www.topuniversities.com/student-info/scholarship-advice/scholarships-study-abroad-worlds-best-student-cities -> https://www.rmit.edu.au/browse;ID=ii1vefutxzhv
+
+469634
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/system-strength-rankings/2018 -> https://www.topuniversities.com/where-to-study/north-america/united-states/guide -> https://www.topuniversities.com/node/1968 -> http://web.mit.edu/SFS/scholarships/index.html
+
+486108
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/international-students?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Profile_page
+
+486113
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/international-students?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Profile_page
+
+486121
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp250?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486122
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp203?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486123
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp115?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486124
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp309?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486125
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bh103?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486126
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp308?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486127
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp094?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486128
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bh078?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486129
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bh074?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486130
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bh077?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486131
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bh072?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486132
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bh073?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486133
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bh070?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486134
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp296?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486135
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp032?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486136
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp154?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486137
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp192?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486138
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp254?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486139
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp251?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486140
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp255?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486141
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp252?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486142
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp219?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486143
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp046?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486144
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc163?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486145
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc266?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486146
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc222?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486147
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc172?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486148
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/research-programs/masters-by-research/mr201?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486149
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc180?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486150
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc226?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486151
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc224?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486152
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc229?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486153
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc234?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486154
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc208?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486155
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/research-programs/masters-by-research/mr233?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486156
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc111?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486157
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc058?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486158
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc159?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486159
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc199?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486160
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc231?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486161
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc211?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486162
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc222?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486162
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc194?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486163
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc212?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486164
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc216?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486165
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc004?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486166
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc240?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486167
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc219?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486168
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/mc220?utm_medium=web&utm_source=QS&utm_campaign=INT_Sub&utm_content=Program_page
+
+486179
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/universities/rmit-university -> https://www.rmit.edu.au/content/dam/rmit/documents/study-with-us/career-advisers/brochures/2019-International-Guide.pdf
+
+487538
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/where-to-study/home -> https://www.topuniversities.com/where-to-study/oceania/australia/guide -> https://www.topuniversities.com/student-info/student-finance/how-much-does-it-cost-study-australia -> https://www.rmit.edu.au/students/support-and-facilities/student-support/finance/spending/shopping-smartly
+
+489998
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/highest-starting-salaries?locale=en-AU -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-NZ -> http://uaap.mit.edu/research-exploration/urop
+
+490012
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://web.mit.edu
+
+490012
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://web.mit.edu/iap/
+
+490013
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://resources.mit.edu/
+
+490014
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://ovc.mit.edu
+
+490015
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://uaap.mit.edu/research-exploration/urop
+
+490015
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> mailto:urop@mit.edu
+
+490016
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> https://whereis.mit.edu/?go=7-104
+
+490017
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://oel.mit.edu
+
+490018
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://web.mit.edu/macvicar/bio.html
+
+490019
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://groups.csail.mit.edu/mac/users/hal/misc/generation-of-greatness.html
+
+490021
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://oel.mit.edu
+
+490021
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://newsoffice.mit.edu/2014/faces-of-urop
+
+490023
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://newsoffice.mit.edu/2014/faces-of-urop
+
+490024
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://newsoffice.mit.edu/2014/faces-of-urop
+
+490025
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://newsoffice.mit.edu/2014/faces-of-urop
+
+490026
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> http://newsoffice.mit.edu/2014/faces-of-urop
+
+490027
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> https://ovc.mit.edu
+
+490028
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> http://uaap.mit.edu/research-exploration/urop -> mailto:firstyear@mit.edu
+
+490088
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/top-stem-universities?locale=en-AU -> https://www.crimsoneducation.org/blog/best-university-campuses?locale=en-US -> http://web.mit.edu/
+
+490311
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/mission/
+
+490312
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/ecosystem/
+
+490313
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/meeting-rooms/
+
+490314
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/protoworks/
+
+490315
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/team/
+
+490316
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/annual-report/
+
+490317
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/courses/
+
+490318
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/classes/
+
+490319
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/mba-entrepreneurship-innovation/
+
+490320
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/faculty/
+
+490321
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/executive-education/
+
+490322
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/online-learning/
+
+490323
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/coaching/
+
+490324
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/professional-advisors/
+
+490325
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/sector-practice-leaders/
+
+490326
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/facilities/
+
+490327
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/student-organizations/
+
+490328
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/additional-resources/
+
+490329
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/
+
+490329
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/program/
+
+490330
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/mit-nyc-startup-studio/
+
+490331
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/demo-day/
+
+490332
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/past-teams/
+
+490333
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/calendar/
+
+490334
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/independent-activities-period/
+
+490335
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/bu-law-clinic/
+
+490336
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/t0/
+
+490337
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/summer/
+
+490338
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/speakers/
+
+490339
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/entrepreneurship-internship/
+
+490340
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/news/
+
+490342
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/blog/
+
+490343
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/media/
+
+490344
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/newsletter/
+
+490345
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://web.mit.edu/
+
+490345
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/program/
+
+490345
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/mit-nyc-startup-studio/
+
+490345
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/application-guidelines/
+
+490346
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/faq/
+
+490347
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/2018-teams/
+
+490348
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/demo-day/
+
+490348
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/past-teams/
+
+490348
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/acceleratorvideos/
+
+490350
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://web.mit.edu/webcast/entrepreneurship/
+
+490351
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/faq/
+
+490351
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/application-guidelines/
+
+490351
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/2017-teams/
+
+490352
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/past-teams/
+
+490352
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/program/
+
+490352
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://entrepreneurship.mit.edu/accelerator/mit-nyc-startup-studio/
+
+490357
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://web.mit.edu/
+
+490357
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> mailto:trustcenter@mit.edu
+
+490358
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/student-info/admissions-advice/about-qscrimson -> https://www.crimsoneducation.org/blog/young-entrepreneurs?locale=en-AU -> http://entrepreneurship.mit.edu/accelerator/ -> http://web.mit.edu/
+
+491946
+https://fit.cvut.cz/ -> http://www.topuniversities.com/node/9268/ranking-details/university-subject-rankings/2013/computer-science-and-information-systems -> https://www.topuniversities.com/community -> http://ow.ly/9yuQ30mhpBL -> https://www.topuniversities.com/student-info/scholarships/international-scholarships-engineering-students -> https://www.rmit.edu.au/about/our-education/academic-colleges/college-of-business/industry/australian-apec-study-centre/projects/australia---apec-women-in-research-fellowship/
+
+516390
+https://fit.cvut.cz/ -> http://casopis.fit.cvut.cz/ -> https://casopis.fit.cvut.cz/technologie/spam-na-fitu/ -> https://en.wikipedia.org/wiki/Milter -> https://en.wikipedia.org/w/index.php?title=Milter&oldid=836876274 -> https://stuff.mit.edu/~jik/software/bogofilter-milter/
+
+520234
+https://fit.cvut.cz/ -> http://casopis.fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tvorba/nekrolog-spoluzaci/ -> https://www.lupa.cz/clanky/cesko-v-socialnich-sitich/ -> http://en.wikipedia.org/wiki/Online_social_network -> http://mitpress2.mit.edu/books/chapters/0262134950chap3.pdf
+
+520298
+https://fit.cvut.cz/ -> http://casopis.fit.cvut.cz/ -> https://casopis.fit.cvut.cz/tvorba/nekrolog-spoluzaci/ -> https://www.lupa.cz/clanky/cesko-v-socialnich-sitich/ -> http://en.wikipedia.org/wiki/Online_social_network -> http://web.mit.edu/sturkle/www/pdfsforstwebpage/ST_Living%20Online.pdf
+
+522989
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> https://creativecommons.org/share-your-work/places-to-share/ -> http://ocw.mit.edu/
+
+523466
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> https://www.k12videos.mit.edu/videos
+
+523467
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> https://teachingexcellence.mit.edu/
+
+523468
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=gerry
+
+523469
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=icons
+
+523470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=liz
+
+523471
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=michael
+
+523472
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=paran
+
+523473
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=pieter
+
+523475
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> http://ocw.mit.edu/educator?utm_source=OCWHomePage&utm_medium=CarouselBig&utm_campaign=Educator
+
+523478
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> http://k12videos.mit.edu
+
+523479
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> http://teachingexcellence.mit.edu/
+
+523480
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> http://ocw.mit.edu/about/
+
+523481
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> http://web.mit.edu
+
+523481
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/share-your-work/ -> http://ocw.mit.edu/index.htm -> http://odl.mit.edu
+
+523495
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/use-remix/ -> https://creativecommons.org/use-remix/licensing/ -> http://ocw.mit.edu/index.htm
+
+523507
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/about/ -> https://creativecommons.org/about/faq/ -> http://ocw.mit.edu/
+
+523687
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/about/ -> https://creativecommons.org/about/platform/ -> http://ocw.mit.edu/
+
+523762
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/about/ -> https://creativecommons.org/about/program-areas/open-science/ -> http://info-libraries.mit.edu/
+
+523763
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/about/ -> https://creativecommons.org/about/program-areas/open-science/ -> http://info-libraries.mit.edu/
+
+523763
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/about/ -> https://creativecommons.org/about/program-areas/open-science/ -> http://info-libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-amendment-form/mit-amendment-tool/
+
+524081
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/about/contact/ -> https://creativecommons.org/faq/ -> http://ocw.mit.edu/
+
+525267
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#What_is_copyright_and_why_does_it_matter -> http://ocw.mit.edu/
+
+525466
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/science -> http://info-libraries.mit.edu/
+
+525466
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/science -> http://info-libraries.mit.edu/
+
+525466
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/science -> http://info-libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-amendment-form/mit-amendment-tool/
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> https://www.k12videos.mit.edu/videos
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> https://teachingexcellence.mit.edu/
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=gerry
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=icons
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=liz
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=michael
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=paran
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> https://crowdfund.mit.edu/project/11656?utm_source=ocw&utm_medium=rotator&utm_campaign=2018ocw500&utm_content=pieter
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> http://ocw.mit.edu/educator?utm_source=OCWHomePage&utm_medium=CarouselBig&utm_campaign=Educator
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> http://k12videos.mit.edu
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> http://teachingexcellence.mit.edu/
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> http://ocw.mit.edu/about/
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> http://web.mit.edu
+
+525470
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> http://ocw.mit.edu/ -> http://odl.mit.edu
+
+525738
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-is-copyright-and-why-does-it-matter -> http://ocw.mit.edu/
+
+525738
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-are-neighboring-rights -> http://ocw.mit.edu/
+
+525738
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-are-sui-generis-database-rights -> http://ocw.mit.edu/
+
+525738
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-use-cc-licenses-to-license-rights-other-than-copyright -> http://ocw.mit.edu/
+
+525738
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use -> http://ocw.mit.edu/
+
+525738
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-is-the-difference-between-the-open-data-commons-licenses-and-the-cc-4.0-licenses -> http://ocw.mit.edu/
+
+525740
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work -> http://ocw.mit.edu/
+
+525740
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-if-i-change-my-mind-about-using-a-cc-license -> http://ocw.mit.edu/
+
+525760
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://en.wikipedia.org/wiki/Fair_dealing -> http://www.rmit.edu.au/browse?SIMID=6xaviaznzwnf
+
+525779
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#how-do-cc-licenses-operate -> http://ocw.mit.edu/
+
+525779
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#does-creative-commons-collect-or-track-material-licensed-under-a-cc-license -> http://ocw.mit.edu/
+
+525779
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-happens-if-i-want-to-use-the-material-in-a-way-that-is-not-permitted-by-the-license -> http://ocw.mit.edu/
+
+525784
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-creative-commons-give-legal-advice-about-its-licenses-or-other-tools-or-help-with-cc-license-enforcement -> http://ocw.mit.edu/
+
+525786
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#should-i-choose-an-international-license-or-a-ported-license -> http://ocw.mit.edu/
+
+525786
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work -> http://ocw.mit.edu/
+
+525793
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-are-the-international-unported-creative-commons-licenses-and-why-does-cc-offer-ported-licenses -> http://ocw.mit.edu/
+
+525844
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-should-i-know-about-differences-between-the-international-licenses-and-the-ported-licenses -> http://ocw.mit.edu/
+
+525849
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-is-the-public-domain -> http://ocw.mit.edu/
+
+525849
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-are-collecting-societies -> http://ocw.mit.edu/
+
+525849
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-use-a-creative-commons-license-if-i-am-a-member-of-a-collecting-society -> http://ocw.mit.edu/
+
+525855
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-do-the-creative-commons-buttons-do -> http://ocw.mit.edu/
+
+525855
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-take-a-cc-licensed-work-and-use-it-in-a-different-format -> http://ocw.mit.edu/
+
+525855
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-apply-a-cc-license-to-low-resolution-copies-of-a-licensed-work-and-reserve-more-rights-in-high-resolution-copies -> http://ocw.mit.edu/
+
+525950
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-databases -> http://ocw.mit.edu/
+
+525991
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-offer-material-under-a-cc-license-that-has-my-trademark-on-it-without-also-licensing-or-affecting-rights-in-the-trademark -> http://ocw.mit.edu/
+
+526090
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions -> http://ocw.mit.edu/
+
+526100
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-are-publicity-personality-and-privacy-rights -> http://ocw.mit.edu/
+
+526100
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#how-do-i-know-if-a-low-resolution-photo-and-a-high-resolution-photo-are-the-same-work -> http://ocw.mit.edu/
+
+526100
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-if-i-have-received-cc-licensed-material-with-additional-restrictions -> http://ocw.mit.edu/
+
+526101
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#Does_my_use_violate_the_NonCommercial_clause_of_the_licenses -> http://ocw.mit.edu/
+
+526119
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-waive-license-terms-or-conditions -> http://ocw.mit.edu/
+
+526119
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back -> http://ocw.mit.edu/
+
+526119
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#do-i-need-to-be-aware-of-anything-else-when-providing-attribution -> http://ocw.mit.edu/
+
+526119
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-share-cc-licensed-material-on-password-protected-sites -> http://ocw.mit.edu/
+
+526119
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-can-i-do-if-i-offer-my-material-under-a-creative-commons-license-and-i-do-not-like-the-way-someone-uses-it -> http://ocw.mit.edu/
+
+526119
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#does-a-creative-commons-license-give-me-all-the-rights-i-need-to-use-the-work -> http://ocw.mit.edu/
+
+526119
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-are-moral-rights -> http://ocw.mit.edu/
+
+526171
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#when-is-my-use-considered-an-adaptation -> http://ocw.mit.edu/
+
+526171
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-i-use-effective-technological-measures-such-as-drm-when-i-share-cc-licensed-material -> http://ocw.mit.edu/
+
+526171
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-is-an-adaptation -> http://ocw.mit.edu/
+
+526171
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#When_is_my_use_considered_an_adaptation -> http://ocw.mit.edu/
+
+526171
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#how-do-i-properly-attribute-material-offered-under-a-creative-commons-license -> http://ocw.mit.edu/
+
+526171
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use -> http://ocw.mit.edu/
+
+526171
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#does-my-use-violate-the-noncommercial-clause-of-the-licenses -> http://ocw.mit.edu/
+
+526179
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-does-it-mean-that-creative-commons-licenses-are-machine-readable -> http://ocw.mit.edu/
+
+526216
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://www.w3.org/TR/xhtml-rdfa-primer/ -> http://www.csail.mit.edu/
+
+526262
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-if-i-received-cc-licensed-material-encumbered-with-effective-technological-measures-such-as-drm -> http://ocw.mit.edu/
+
+526301
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#how-do-creative-commons-licenses-affect-my-moral-rights-if-at-all -> http://ocw.mit.edu/
+
+526304
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://wiki.creativecommons.org/Version_3#International_Harmonization_.E2.80.94_Collecting_Societies -> https://web.mit.edu/
+
+526320
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://wiki.creativecommons.org/Version_3#International_Harmonization_.E2.80.94_Collecting_Societies -> http://ocw.mit.edu/index.html
+
+526342
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#how-are-publicity-privacy-and-personality-rights-affected-when-i-apply-a-cc-license -> http://ocw.mit.edu/
+
+526407
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#what-constitutes-a-substantial-portion-of-a-database -> http://ocw.mit.edu/
+
+526407
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#which-components-of-databases-are-protected-by-copyright -> http://ocw.mit.edu/
+
+526407
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#which-components-of-a-database-are-protected-by-sui-generis-database-rights -> http://ocw.mit.edu/
+
+526407
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#how-do-i-apply-a-cc-legal-tool-to-a-database -> http://ocw.mit.edu/
+
+526407
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#how-do-i-know-whether-a-particular-use-of-a-database-is-restricted-by-copyright -> http://ocw.mit.edu/
+
+526407
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#how-do-i-know-whether-a-particular-use-of-a-database-is-restricted-by-sui-generis-database-rights -> http://ocw.mit.edu/
+
+526407
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#if-my-use-of-a-database-is-restricted-by-sui-generis-database-rights-how-do-i-comply-with-the-license -> http://ocw.mit.edu/
+
+526407
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#how-does-the-treatment-of-sui-generis-database-rights-vary-in-prior-versions-of-cc-licenses -> http://ocw.mit.edu/
+
+526407
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/FAQ -> https://creativecommons.org/faq/#can-databases-be-released-under-cc-licenses -> http://ocw.mit.edu/
+
+527573
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/License_Versions#Detailed_attribution_comparison_chart -> https://creativecommons.org/weblog/entry/4216 -> https://web.mit.edu/
+
+527589
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/License_Versions#Detailed_attribution_comparison_chart -> https://creativecommons.org/weblog/entry/6017 -> http://ocw.mit.edu/
+
+527886
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/License_Versions#Detailed_attribution_comparison_chart -> https://wiki.creativecommons.org/Version_3#BY-SA_.E2.80.94_Compatibility_Structure_Introduced -> https://web.mit.edu/
+
+527886
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://wiki.creativecommons.org/License_Versions#Detailed_attribution_comparison_chart -> https://wiki.creativecommons.org/Version_3#BY-SA_.E2.80.94_Compatibility_Structure_Introduced -> http://ocw.mit.edu/index.html
+
+528414
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/compatiblelicenses -> https://wiki.creativecommons.org/Frequently_Asked_Questions#Can_I_combine_two_different_Creative_Commons_licensed_works.3F_Can_I_combine_a_Creative_Commons_licensed_work_with_another_non-CC_licensed_work.3F -> http://ocw.mit.edu/
+
+528706
+https://fit.cvut.cz/ -> https://www.linuxdays.cz/2018/registrace/ -> http://creativecommons.org/licenses/by/4.0/ -> https://creativecommons.org/compatiblelicenses -> http://www.classicistranieri.com/licenze-creative-commons.html -> http://ocw.mit.edu/terms/#cc
+
+538599
+https://fit.cvut.cz/ -> http://www.cvut.cz -> http://varhany.cvut.cz/ -> http://www.fd.cvut.cz -> http://mech.fd.cvut.cz/ -> http://www.w3.org/WAI/WCAG1AA-Conformance -> http://www.lcs.mit.edu/
+
+547154
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/aktuality/20181007-cvut-slavi-vznik-ceskoslovenska -> https://filesender.cesnet.cz/?vid=630a3aa1-697d-cd09-62be-0000586e41e2 -> http://caniuse.com/fileapi -> https://www.w3.org/TR/FileAPI/ -> http://www.csail.mit.edu/
+
+547337
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/aktuality/20181007-cvut-slavi-vznik-ceskoslovenska -> https://filesender.cesnet.cz/?vid=630a3aa1-697d-cd09-62be-0000586e41e2 -> http://caniuse.com/filereader -> https://www.w3.org/TR/FileAPI/#dfn-filereader -> http://www.csail.mit.edu/
+
+547346
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/aktuality/20181007-cvut-slavi-vznik-ceskoslovenska -> https://filesender.cesnet.cz/?vid=630a3aa1-697d-cd09-62be-0000586e41e2 -> http://caniuse.com/bloburls -> https://www.w3.org/TR/FileAPI/#url -> http://www.csail.mit.edu/
+
+550825
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/bleskove-zpravy -> http://www.muvs.cvut.cz/kurzy-zam-cvut/ -> https://cs.wikipedia.org/wiki/HTTP_cookie -> https://ro.wikipedia.org/wiki/Cookie -> http://opensource.mit.edu/papers/shah.pdf
+
+557902
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/bleskove-zpravy -> https://www.fulbright.cz/stipendia/stipendium-pro-vedce-a-prednasejici/%20 -> https://www.fulbright.cz/educationusa/ -> https://www.fulbright.cz/educationusa/odkazy/ -> http://web.media.mit.edu/%7Eguy/american/
+
+559822
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/bleskove-zpravy -> https://www.fulbright.cz/stipendia/stipendium-pro-vedce-a-prednasejici/%20 -> http://czechfulbright.blogspot.cz/ -> http://czechfulbright.blogspot.com/2015/ -> http://web.mit.edu/
+
+559822
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/bleskove-zpravy -> https://www.fulbright.cz/stipendia/stipendium-pro-vedce-a-prednasejici/%20 -> http://czechfulbright.blogspot.cz/ -> http://czechfulbright.blogspot.com/2015/ -> http://mitsloan.mit.edu/mfin/
+
+559823
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/bleskove-zpravy -> https://www.fulbright.cz/stipendia/stipendium-pro-vedce-a-prednasejici/%20 -> http://czechfulbright.blogspot.cz/ -> http://czechfulbright.blogspot.com/2015/ -> http://mitsloan.mit.edu/
+
+559893
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/bleskove-zpravy -> https://www.fulbright.cz/stipendia/stipendium-pro-vedce-a-prednasejici/%20 -> http://czechfulbright.blogspot.cz/ -> http://czechfulbright.blogspot.com/2015/06/ -> http://web.mit.edu/
+
+559893
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/bleskove-zpravy -> https://www.fulbright.cz/stipendia/stipendium-pro-vedce-a-prednasejici/%20 -> http://czechfulbright.blogspot.cz/ -> http://czechfulbright.blogspot.com/2015/06/ -> http://mitsloan.mit.edu/mfin/
+
+559893
+https://fit.cvut.cz/ -> http://www.cvut.cz -> https://aktualne.cvut.cz/bleskove-zpravy -> https://www.fulbright.cz/stipendia/stipendium-pro-vedce-a-prednasejici/%20 -> http://czechfulbright.blogspot.cz/ -> http://czechfulbright.blogspot.com/2015/06/ -> http://mitsloan.mit.edu/
+
+845589
+https://fit.cvut.cz/ -> https://gaudeamus.cz/brno -> https://gaudeamus.cz/seznam-skol/detail-skoly/schoolHash:f814368546cdbf629517c5965d3dd4be -> http://www.cuni.cz -> https://www.cuni.cz/UK-9367.html -> https://knihovna.cuni.cz/rozcestnik/open-access/ -> https://mitpress.mit.edu/books/open-access
 
