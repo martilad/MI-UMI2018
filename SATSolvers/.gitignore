@@ -1,0 +1,5 @@
+build
+*.html
+*.c
+*.so
+*egg-info
