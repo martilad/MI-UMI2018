@@ -19,11 +19,12 @@ def GSAT(clause, n_v):
     n_var = n_v
     cdef np.ndarray[np.int64_t, ndim=1] variables = np.zeros(n_var, dtype=np.int64)
     cdef np.ndarray[np.int64_t, ndim=1] g_sat_comp = np.zeros(n_var, dtype=np.int64)
+    cdef np.ndarray[np.int64_t, ndim=1] rand_to_do = np.zeros(n_var, dtype=np.int64)
 
 
-    cdef int i, j, k, tmp, max, ind
+    cdef int i, j, k, tmp, max, ind, id
     cdef int n_clauses, cnt, max_iter
-    max_iter = 100000
+    max_iter = 20
     cnt = 0
     n_clauses = int(len(clause))
 
@@ -53,22 +54,34 @@ def GSAT(clause, n_v):
 
         max = 0
         ind = 0
+        id = 0
         print(g_sat_comp)
         for i in range(n_var):
             if g_sat_comp[i] > max:
+                rand_to_do.fill(0)
+                id = 1
+                rand_to_do[0] = i
                 max = g_sat_comp[i]
                 ind = i
+                continue
+            if g_sat_comp[i] == max:
+                rand_to_do[id] = i
+                id += 1
+                ind = -1
+                #append
+        print(rand_to_do, "    rnd")
+        print(variables)
 
-        if rand()/<float>RAND_MAX < 0.05:
-            ind = rand() % n_var
-
-        if variables[ind] == 1:
-            variables[ind] = 0
-        else:
-            variables[ind] = 1
+        print("iiiiidddd: ", ind)
+        #if variables[ind] == 1:
+        #    variables[ind] = 0
+        #else:
+        #    variables[ind] = 1
 
         cnt += 1
+        satisfied_clauses(clauses, variables, n_clauses)
         print("Iter:", cnt)
+        print("-------------------------------")
 
     return variables
 
@@ -83,7 +96,7 @@ cdef int bad_to_good_after_flip(int ** clauses, np.int64_t[:] variables, int var
     bad = 0
     for i in range(n_clauses):
         for j in range(clauses[i][0]):
-            if var == clauses[i][j+1]:
+            if var == abs(clauses[i][j+1]):
                 kill = 1
             if clauses[i][j+1] < 0 and variables[abs(clauses[i][j+1])] == 0:
                 bad += 1
@@ -91,9 +104,9 @@ cdef int bad_to_good_after_flip(int ** clauses, np.int64_t[:] variables, int var
                 bad += 1
         if kill == 1 and bad == 0:
             for j in range(clauses[i][0]):
-                if var == clauses[i][j+1] and clauses[i][j+1] < 0 and variables[abs(clauses[i][j+1])] == 1:
+                if var == abs(clauses[i][j+1]) and clauses[i][j+1] < 0 and variables[abs(clauses[i][j+1])] == 1:
                     cnt += 1
-                elif var == clauses[i][j+1] and clauses[i][j+1] > 0 and variables[abs(clauses[i][j+1])] == 0:
+                elif var == abs(clauses[i][j+1]) and clauses[i][j+1] > 0 and variables[abs(clauses[i][j+1])] == 0:
                     cnt += 1
         else:
             kill = 0
@@ -112,7 +125,7 @@ cdef int good_to_bad_after_flip(int ** clauses, np.int64_t[:] variables, int var
     for i in range(n_clauses):
         # check if is satisfied and contain variable
         for j in range(clauses[i][0]):
-            if var == clauses[i][j+1]:
+            if var == abs(clauses[i][j+1]):
                 kill = 1
             if clauses[i][j+1] < 0 and variables[abs(clauses[i][j+1])] == 0:
                 good += 1
@@ -121,9 +134,9 @@ cdef int good_to_bad_after_flip(int ** clauses, np.int64_t[:] variables, int var
         if kill == 1 and good > 0:
             # check with flip
             for j in range(clauses[i][0]):
-                if var == clauses[i][j+1] and clauses[i][j+1] < 0 and variables[abs(clauses[i][j+1])] == 1:
+                if var == abs(clauses[i][j+1]) and clauses[i][j+1] < 0 and variables[abs(clauses[i][j+1])] == 1:
                     bad += 1
-                elif var == clauses[i][j+1] and clauses[i][j+1] > 0 and variables[abs(clauses[i][j+1])] == 0:
+                elif var == abs(clauses[i][j+1]) and clauses[i][j+1] > 0 and variables[abs(clauses[i][j+1])] == 0:
                     bad += 1
                 elif clauses[i][j+1] < 0 and variables[abs(clauses[i][j+1])] == 0:
                     bad += 1
@@ -147,8 +160,8 @@ cdef int satisfied_clauses(int ** clauses, np.int64_t[:] variables, int n_clause
             if clauses[i][j+1] < 0 and variables[abs(clauses[i][j+1])] == 0:
                 cnt += 1
                 break
-            elif clauses[i][j+1] > 0 and variables[abs(clauses[i][j+1])] == 1:
+            if clauses[i][j+1] > 0 and variables[abs(clauses[i][j+1])] == 1:
                 cnt += 1
                 break
-    print(cnt)
+    print(cnt, " satisfied")
     return cnt
