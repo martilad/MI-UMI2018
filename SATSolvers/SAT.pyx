@@ -7,7 +7,7 @@ from cpython.mem cimport PyMem_Malloc, PyMem_Realloc, PyMem_Free
 @cython.boundscheck(False)
 cdef int** loadANDinit(clause, int n_clauses, np.int64_t[:] variables, int n_var):
 
-    cdef int tmp, i, j
+    cdef int tmp, i, j, temp
     cdef int ** clauses = <int **>PyMem_Malloc(n_clauses*sizeof(int*))
 
     for i in range(n_clauses):
@@ -26,6 +26,7 @@ cdef int** loadANDinit(clause, int n_clauses, np.int64_t[:] variables, int n_var
 @cython.cdivision(True)
 @cython.wraparound(False)
 def WALKSAT(clause, n_v, max_it, prob):
+
     cdef int n_var
     n_var = n_v
     cdef np.ndarray[np.int64_t, ndim=1] variables = np.zeros(n_var, dtype=np.int64)
@@ -35,15 +36,19 @@ def WALKSAT(clause, n_v, max_it, prob):
     max_iter = max_it
     counter = 0
 
+
     cdef int ** clauses = loadANDinit(clause, n_clauses, variables, n_var)
+
     cdef np.ndarray[np.int64_t, ndim=1] unsatisfied_clauses = np.zeros(n_clauses, dtype=np.int64)
 
 
     while True:
+
         if counter > max_iter:
             return "Can't find solution"
 
         satis = satisfied_clauses(clauses, variables, n_clauses)
+
         if satis == n_clauses:
             return variables
 
@@ -52,31 +57,30 @@ def WALKSAT(clause, n_v, max_it, prob):
         else:
             c_unsatisfied = get_unsatisfied(clauses, variables, n_clauses, unsatisfied_clauses)
             clause_to_do = unsatisfied_clauses[rand() % c_unsatisfied]
-            min = n_clauses
-            #print(clause[clause_to_do])
-            #print(unsatisfied_clauses)
 
+            min = n_clauses
             c_unsatisfied = 0
             for i in range(clauses[clause_to_do][0]):
                 act_var = good_to_bad_after_flip(clauses, variables, abs(clauses[clause_to_do][i+1])-1, n_clauses)
                 if min > act_var:
                     min = act_var
                     unsatisfied_clauses[0] = abs(clauses[clause_to_do][i+1])-1
-                    c_unsatisfied += 1
+                    c_unsatisfied = 1
                     continue
                 if min == act_var:
-                    unsatisfied_clauses[0] = abs(clauses[clause_to_do][i+1])-1
+                    unsatisfied_clauses[c_unsatisfied] = abs(clauses[clause_to_do][i+1])-1
                     c_unsatisfied += 1
-            #print(unsatisfied_clauses)
+
             ind = unsatisfied_clauses[rand() % c_unsatisfied]
-            #print(ind)
 
         if variables[ind] == 1:
             variables[ind] = 0
         else:
             variables[ind] = 1
         counter += 1
+
         print("Iter:", counter, " Satisfied:", satis)
+
 
     return variables
 
