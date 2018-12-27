@@ -1,6 +1,6 @@
 import click
 import time
-from SAT import GSAT
+from SAT import GSAT, WALKSAT
 
 
 """	Solve and test and stats instances with simulated anealing"""
@@ -32,6 +32,12 @@ def SATSolver(file, alg):
 		t1 = time.time()
 		solution = GSAT(clause, n_v, 2000, 0.4)
 		print("GSAT sollution time:", time.time()-t1, 's. Var number:', n_v, "Cls number:", n_c)
+		print(solution)
+		return
+	if str(alg).lower() == 'walksat':
+		t1 = time.time()
+		solution = WALKSAT(clause, n_v, 2000, 0.4)
+		print("WALKSAT sollution time:", time.time()-t1, 's. Var number:', n_v, "Cls number:", n_c)
 		print(solution)
 		return
 
