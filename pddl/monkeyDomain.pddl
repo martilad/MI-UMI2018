@@ -1,6 +1,6 @@
 ﻿(define (domain monkey)
    (:requirements :adl)
-   (:constants monkey box knife bananas waterfountain glass)
+   (:constants monkey box bananas)
    (:predicates  (goto ?x ?y) 
                  (climp ?x)
                  (push-box ?x ?y)
